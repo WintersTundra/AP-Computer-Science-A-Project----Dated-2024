@@ -5,3 +5,5 @@ Inspired by my experience with previous text adventures, this choose your own ad
 
 Uses OOP
 I took the user's ease of use into account while designing the program (For instance, having a select number menu rather than typing out the entire action request).
+
+Scored 20/20
